@@ -1,0 +1,123 @@
+body {
+  margin: 0%;
+  font-family: sans-serif;
+}
+
+.main-nav {
+  background-color: #eee;
+  padding-bottom: 10px;
+}
+
+.main-nav img {
+  margin: 20px 0px 10px 50px;
+}
+
+.main-nav nav {
+  padding: 45px 20px 20px 20px;
+  margin-right: 30px;
+  float: right;
+}
+
+.main-nav nav a {
+  font-size: large;
+  padding: 10px;
+  text-decoration: none;
+  color: darkslategrey;
+}
+
+.main-nav nav a:hover {
+  color: lightskyblue;
+}
+
+.main-content {
+  margin: 45px 125px 10px 45px;
+}
+
+.main-content h1,
+h2,
+h6 {
+  font-weight: 200;
+}
+
+.main-content p {
+  font-weight: lighter;
+  font-size: medium;
+  color: darkslategrey;
+}
+
+.main-content a {
+  text-decoration: none;
+  color: royalblue;
+}
+
+.main-content h6 {
+  margin-top: 50px;
+  color: lightslategray;
+}
+
+.footer {
+  background-color: #eee;
+  height: 190px;
+  padding: 45px 45px 10px 45px;
+  color: lightslategray;
+}
+
+.footer-nav-left {
+  float: left;
+  padding-right: 20px;
+  margin-bottom: 20px;
+}
+
+.footer-nav-left a {
+  text-decoration: none;
+  color: darkslategray;
+  line-height: 2;
+  font-size: small;
+  font-weight: bold;
+}
+
+.footer-nav-left a:hover {
+  color: lightskyblue;
+}
+
+.footer-nav-right {
+  float: left;
+}
+
+.footer-nav-right a {
+  text-decoration: none;
+  color: lightslategray;
+  margin-right: 20px;
+  line-height: 2;
+  font-size: small;
+}
+
+.footer-nav-right a:hover {
+  color: lightskyblue;
+}
+
+.footer-para {
+  clear: both;
+  font-size: small;
+}
+
+.footer-para a {
+  text-decoration: none;
+  color: darkslategray;
+  font-weight: bold;
+}
+
+.footer-para a:hover {
+  color: lightskyblue;
+}
+
+.footer-terms a {
+  color: darkslategray;
+  font-size: small;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.footer-terms a:hover {
+  color: lightskyblue;
+}
